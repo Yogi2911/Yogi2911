@@ -8,7 +8,7 @@
 Welcome to my GitHub! I’m passionate about **designing beautiful user interfaces** and **building responsive, user-friendly websites**.  
 Whether it’s turning ideas into interactive web apps, crafting design systems, or exploring creative coding — I love learning, creating, and growing every day.  
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30px" alt="bulb"/>What I Do  
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30px" alt="blinking bulb"/>What I Do  
 - 🎨 **Design & Prototype UI** using Figma  
 - 💻 **Build responsive websites** with HTML, CSS, JavaScript  
 - ⚡ **Create smooth user experiences** with modern frontend practices  
