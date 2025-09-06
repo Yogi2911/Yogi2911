@@ -5,10 +5,11 @@
 
 🎨 UI Designer & 💻 Frontend Developer  
 
+
 Welcome to my GitHub! I’m passionate about **designing beautiful user interfaces** and **building responsive, user-friendly websites**.  
 Whether it’s turning ideas into interactive web apps, crafting design systems, or exploring creative coding — I love learning, creating, and growing every day.  
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30px" alt="blinking light bulb"/> What I Do  
+## ![world-creativity-and-innovation-day](https://github.com/user-attachments/assets/8480b075-0eee-4e52-ba84-bac3457e7fa3) What I Do  
 - 🎨 **Design & Prototype UI** using Figma  
 - 💻 **Build responsive websites** with HTML, CSS, JavaScript  
 - ⚡ **Create smooth user experiences** with modern frontend practices  
