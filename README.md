@@ -15,7 +15,7 @@ Whether it’s turning ideas into interactive web apps, crafting design systems,
 📧 Email: yogeswariyogi92@gmail.com  
 📸 Instagram: [@aurgofy](https://instagram.com/aurgofy)  
 💼 LinkedIn: www.linkedin.com/in/yogeswari-m-yogi-9a16a62a0
-🌐 Portfolio: *(add your portfolio/website link here)* 
+🌐 Portfolio: will update soon...
 
 <!--
 **Yogi2911/Yogi2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
