@@ -3,13 +3,14 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi"/> I'm Yogeswari
 
-🎨 UI Designer & 💻 Frontend Developer  
+🎨 UI Designer & 💻 Frontend Developer  ![Uploading world-creativity-and-innovation-day.png…]()
+
 
 
 Welcome to my GitHub! I’m passionate about **designing beautiful user interfaces** and **building responsive, user-friendly websites**.  
 Whether it’s turning ideas into interactive web apps, crafting design systems, or exploring creative coding — I love learning, creating, and growing every day.  
 
-## ![world-creativity-and-innovation-day](https://github.com/user-attachments/assets/8480b075-0eee-4e52-ba84-bac3457e7fa3) What I Do  
+##  What I Do  
 - 🎨 **Design & Prototype UI** using Figma  
 - 💻 **Build responsive websites** with HTML, CSS, JavaScript  
 - ⚡ **Create smooth user experiences** with modern frontend practices  
