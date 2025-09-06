@@ -1,7 +1,7 @@
-#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi"/>
 
 
-# Hi there 👋 I'm Yogeswari
+
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi"/> I'm Yogeswari
 
 🎨 UI Designer & 💻 Frontend Developer  
 
